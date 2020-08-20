@@ -1,0 +1,10 @@
+{
+  "id": "arraylists",
+  "minversion": 202000400000,
+  "info": {
+    "name": "ArrayLists",
+    "version": "1.0.0",
+    "description": "Create your own ArrayLists",
+    "author": "Goldorion"
+  }
+}

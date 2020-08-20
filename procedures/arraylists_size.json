@@ -1,0 +1,16 @@
+{
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "varName"
+    }
+  ],
+  "output": "Number",
+  "colour": 70,
+  "mcreator": {
+    "toolbox_id": "arraylists",
+    "fields": [
+      "varName"
+    ]
+  }
+}
