@@ -1,5 +1,5 @@
 # PluginArrayLists
-An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft mods. This plugin allows you the possibility to create ArrayLists. You can add, set, get and remove a value. You can also get the size of the ArrayList and clear this same ArrayList. If you don't understand, here is an example with everything added.
+An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft mods. This plugin allows you the possibility to create ArrayLists. You can add, set, get and remove a value. You can also get the size of the ArrayList and clear this same ArrayList.
 
 ## Disclaimer
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
