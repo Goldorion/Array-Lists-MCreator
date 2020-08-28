@@ -5,7 +5,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to 
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
 
 ## Features
-You can see everything you can do with this plugin on [this screen]9https://i.imgur.com/YSICrmd.png).
+You can see everything you can do with this plugin on [this screen](https://i.imgur.com/68YOSIv.png).
 
 ## Installation Instructions
 Pre-built binaries can be found on the [Release page of this repository](https://github.com/ClothCreators/PluginArrayLists/releases).

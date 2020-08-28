@@ -5,8 +5,8 @@
       "name": "varName"
     }
   ],
-  "output": "Number",
-  "colour": "%{BKY_MATH_HUE}",
+  "output": null,
+  "colour": "70",
   "mcreator": {
     "toolbox_id": "arraylists",
     "fields": [
