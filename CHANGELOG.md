@@ -2,8 +2,9 @@
 * Change the plugin's ID
   //Note: You can convert your old procedures by adding the last version and this new version
 * Updated to MCreator 2021.2.23417
-* Added a new ArrayList variable type
+* Added support for Forge, Fabric and Spigot 1.16.5
 * Removed support for old generators
+* Added a new ArrayList variable type
 * Removed several useless blocks due to the new variable type
 * Updated registry names of procedure blocks
 * Updated blocks to support the new variable type
