@@ -8,6 +8,7 @@
 * Removed several useless blocks due to the new variable type
 * Updated registry names of procedure blocks
 * Updated blocks to support the new variable type
+* Added support for the integrated update checker
 
 # 1.1
 * Added "Does the ArrayList contain "

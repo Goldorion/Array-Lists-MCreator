@@ -5,6 +5,8 @@
     "name": "ArrayList",
     "version": "2.0",
     "description": "Create and manage your own lists",
-    "author": "Goldorion"
+    "author": "Goldorion",
+    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Array-Lists-MCreator/master/update.json",
+    "pluginPageID": 65659
   }
 }
