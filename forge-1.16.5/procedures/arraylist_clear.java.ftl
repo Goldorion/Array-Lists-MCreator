@@ -1,1 +1,1 @@
-${field$varName}.clear();
+${input$var}.clear();

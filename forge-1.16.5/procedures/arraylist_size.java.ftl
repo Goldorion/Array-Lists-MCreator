@@ -1,1 +1,1 @@
-(${field$varName}.size())
+${input$var}.size()

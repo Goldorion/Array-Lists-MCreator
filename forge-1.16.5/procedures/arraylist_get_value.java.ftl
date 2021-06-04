@@ -1,1 +1,1 @@
-(${field$varName}.get(${input$index}))
+${input$var}.get(${input$index})

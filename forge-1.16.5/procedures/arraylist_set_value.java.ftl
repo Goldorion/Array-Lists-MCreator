@@ -1,1 +1,1 @@
-${field$varName}.set(${input$index}, ${input$value});
+${input$var}.set(${input$index}, ${input$value});

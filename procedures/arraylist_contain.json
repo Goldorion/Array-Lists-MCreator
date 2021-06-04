@@ -1,23 +1,23 @@
 {
   "args0": [
     {
-      "type": "field_input",
-      "name": "varName"
+      "type": "input_value",
+      "name": "var",
+      "check": "List"
     },
     {
       "type": "input_value",
       "name": "value"
     }
   ],
+  "inputsInline": true,
   "output": "Boolean",
   "colour": "%{BKY_LOGIC_HUE}",
   "mcreator": {
-    "toolbox_id": "arraylists",
-    "fields": [
-      "varName"
-    ],
+    "toolbox_id": "arraylist",
     "inputs": [
-      "value"
+      "value",
+      "var"
     ]
   }
 }

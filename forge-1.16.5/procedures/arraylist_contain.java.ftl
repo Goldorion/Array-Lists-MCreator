@@ -1,1 +1,1 @@
-(${field$varName}.contains(${input$value}))
+${input$var}.contains(${input$value})

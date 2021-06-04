@@ -1,1 +1,1 @@
-${field$varName}.remove(${input$index});
+${input$var}.remove(${input$index});

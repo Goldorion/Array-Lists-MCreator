@@ -1,1 +1,1 @@
-(${field$varName}.isEmpty())
+${input$var}.isEmpty()

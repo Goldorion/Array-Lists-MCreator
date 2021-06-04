@@ -1,18 +1,19 @@
 {
   "args0": [
     {
-      "type": "field_input",
-      "name": "varName"
+      "type": "input_value",
+      "name": "var",
+      "check": "List"
     }
   ],
   "inputsInline": true,
   "previousStatement": null,
   "nextStatement": null,
-  "colour": 70,
+  "colour": 300,
   "mcreator": {
-    "toolbox_id": "arraylists",
-    "fields": [
-      "varName"
+    "toolbox_id": "arraylist",
+    "inputs": [
+      "var"
     ]
   }
 }
