@@ -1,24 +1,19 @@
-# PluginArrayLists
-An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft mods. This plugin allows you the possibility to create ArrayLists. You can add, set, get and remove a value. You can also get the size of the ArrayList and clear this same ArrayList.
+# Array-Lists-MCreator
+This [MCreator](https://mcreator.net/) plugin adds a new ArrayList variable type to procedure variables.
+You can create, manage and delete lists into your procedures. You need to have a list of your favorite names for pigs, you can make it!
 
 ## Disclaimer
-This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
+This project is not official. It is not affiliated with the respective owners and maintainers of MCreator. Do not expect any official support from them.
 
 ## Features
-You can see everything you can do with this plugin on [this screen](https://i.imgur.com/68YOSIv.png).
+You can have a small preview of blocks or things you can do on the following picture.
+![](https://i.imgur.com/ZgTzx3N.png).
 
-## Installation Instructions
-Pre-built binaries can be found on the [Release page of this repository](https://github.com/ClothCreators/PluginArrayLists/releases).
-
-Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
+## Important Information
+* This plugin supports Forge 1.15.2 and Fabric, Forge and Spigot 1.16.5.
+* You need to be on the first 2021.2 snapshot. (EAP 2021.2.23417)
 
 ## Credits/License
-
 Dev - [Goldorion](https://github.com/Goldorion)
 
-The plugin's MCreator page is [here](https://mcreator.net/plugin/65659/arraylists).
-
-Licensed under the GNU Lesser General Public License, version 3.0  
-- Forked versions of this software must be distributed under the same license as this with attribution, if distributed.
-- Changes must be stated if any modified works are to be distributed.
-- Under no circumstances can you state that modified works are endorsed by the original creators.
+Licensed under the Apache-2.0 License
