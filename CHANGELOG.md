@@ -1,4 +1,6 @@
 # 2.0
+* Change the plugin's ID
+  //Note: You can convert your old procedures by adding the last version and this new version
 * Updated to MCreator 2021.2.23417
 * Added a new ArrayList variable type
 * Removed support for old generators
