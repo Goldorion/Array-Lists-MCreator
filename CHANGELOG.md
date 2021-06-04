@@ -1,5 +1,9 @@
 # 2.0
+* Updated to MCreator 2021.2.23417
+* Added a new ArrayList variable type
 * Removed support for old generators
+* Removed several useless blocks due to the new variable type
+* Updated registry names of procedure blocks
 
 # 1.1
 * Added "Does the ArrayList contain "
