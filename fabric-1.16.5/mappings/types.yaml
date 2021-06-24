@@ -1,3 +1,1 @@
-arraylist:
-  - ArrayList
-  - new ArrayList()
+arraylist: ArrayList

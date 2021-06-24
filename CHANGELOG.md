@@ -1,3 +1,7 @@
+# 2.1
+* Updated to MCreator EAP 2021.2.26215
+* Added support for Global session scope
+
 # 2.0
 * Change the plugin's ID
   //Note: You can convert your old procedures by adding the last version and this new version
