@@ -1,3 +1,7 @@
+# 2.2
+* Removed support for Forge 1.15.2 and Spigot 1.16.5
+* Added support for Forge 1.17.1
+
 # 2.1
 * Updated to MCreator EAP 2021.2.26215
 * Added support for Global session scope
