@@ -2,6 +2,7 @@
 * Added support for Fabric 1.19.2
 * Removed support for Forge and Fabric 1.17.1
 * Improved the code
+* [#6] Added support for Simplified Chinese translations
 * [Bugfix #7] Global variables could not be used.
 
 # 2.3
