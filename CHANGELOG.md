@@ -1,3 +1,9 @@
+# 2.4
+* Added support for Fabric 1.19.2
+* Removed support for Forge and Fabric 1.17.1
+* Improved the code
+* [Bugfix #7] Global variables could not be used.
+
 # 2.3
 * Added support for Fabric 1.17.1 and Forge 1.18.2
 * Removed support for Fabric 1.16.5

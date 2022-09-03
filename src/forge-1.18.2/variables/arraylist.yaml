@@ -3,8 +3,8 @@ scopes:
   local:
     init: List<Object> ${var.getName()} = ${var.getType().getDefaultValue(generator.getWorkspace())};
     get: ${name}
-    set: ${name} = (${javaType}) ${value};
+    set: ${name} = (${javaType}) ${opt.removeParentheses(value)};
   global_session:
     init: public static List<Object> ${var.getName()} = ${var.getValue()};
     get: ${JavaModName}Variables.${name}
-    set: ${JavaModName}Variables.${name} = ${value};
+    set: ${JavaModName}Variables.${name} = ${opt.removeParentheses(value)};
