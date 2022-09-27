@@ -1,1 +1,1 @@
-${input$var}.get(${input$index})
+${input$var}.get((int) ${input$index})
