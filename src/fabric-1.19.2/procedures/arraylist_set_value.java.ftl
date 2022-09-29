@@ -1,1 +1,1 @@
-${input$var}.set(${input$index}, ${input$value});
+${input$var}.set((int) ${input$index}, ${input$value});
