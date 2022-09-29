@@ -1,3 +1,6 @@
+# 2.4.1
+* [Bugfix #8] Index parameters could cause problems in some cases
+
 # 2.4
 * Added support for Fabric 1.19.2
 * Removed support for Forge and Fabric 1.17.1
