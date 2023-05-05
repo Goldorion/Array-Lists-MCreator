@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.4.3
+* Added 1.19.4 support
+* Removed 1.16.5 support
+
 ## 2.4.2
 * Added support for Forge 1.19.2
 
