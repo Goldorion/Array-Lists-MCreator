@@ -23,6 +23,7 @@ System.setProperty("user.dir", projectDir.toString())
 task exportPlugin(type: Zip) {
     group("mcreator_plugins")
     from 'src'
+    from 'LICENSE'
     archiveFileName = Globals.getArchiveName()
     destinationDirectory = file('build/')
 }
