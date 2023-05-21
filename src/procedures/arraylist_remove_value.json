@@ -18,7 +18,7 @@
   "mcreator": {
     "toolbox_id": "arraylist",
     "toolbox_init": [
-      "<value name=\"index\"><block type=\"math_number\"><field name=\"index\">4</field></block></value>"
+      "<value name=\"index\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>"
     ],
     "inputs": [
       "index",

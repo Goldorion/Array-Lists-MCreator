@@ -1,1 +1,1 @@
-${input$var}.set((int) ${input$index}, ${input$value});
+${input$var}.set(${opt.toInt(input$index)}, ${input$value});

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.4.4
+Yes, I know, I'm super ultra extremely late for that one. Sorry
+* Added new Get the value at index procedure blocks for each variable type
+* [Bugfix #4] Get the value at index could not be used for specific cases (e.g. items and blocks)
+  * This is kinda fixed by the previous feature, even if the problem persists with the original block
+
 ## 2.4.3
 * Added 1.19.4 support
 * Removed 1.16.5 support

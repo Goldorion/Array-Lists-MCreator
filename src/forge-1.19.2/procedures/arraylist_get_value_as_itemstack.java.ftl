@@ -1,0 +1,1 @@
+/*@ItemStack*/${input$var}.get(${opt.toInt(input$index)}) instanceof ItemStack _bs ? _bs : ItemStack.EMPTY

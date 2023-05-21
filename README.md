@@ -10,7 +10,7 @@ You can have a small preview of blocks or things you can do on the following pic
 ![](https://i.imgur.com/ZgTzx3N.png).
 
 ## Important Information
-* This plugin supports Forge 1.18.2, 1.19.2 and 1.19.4 and Fabric 1.19.2 (when it'll be updated)
+* This plugin supports Forge 1.18.2, 1.19.2 and 1.19.4 and Fabric 1.19.2 and 1.19.4 (when it'll be updated)
 * You need to be on MCreator 2022.1+
 
 ## Credits/License
