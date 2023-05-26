@@ -1,5 +1,8 @@
 # Changelog
 
+# 2.4.5
+* [Bugfix] Get index value as number/logic/string couldn't be used
+
 ## 2.4.4
 Yes, I know, I'm super ultra extremely late for that one. Sorry
 * Added new Get the value at index procedure blocks for each variable type
