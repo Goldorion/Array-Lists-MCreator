@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.4.6
+* [Bugfix] In some cases, some getter blocks could cause build errors
+
 # 2.4.5
 * [Bugfix] Get index value as number/logic/string couldn't be used
 

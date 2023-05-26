@@ -1,1 +1,1 @@
-${input$var}.get(${opt.toInt(input$index)}) instanceof ArrayList _al ? _al : new ArrayList<>()
+(${input$var}.get(${opt.toInt(input$index)}) instanceof ArrayList _al ? _al : new ArrayList<>())

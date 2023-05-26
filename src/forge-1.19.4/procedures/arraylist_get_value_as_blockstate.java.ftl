@@ -1,1 +1,1 @@
-/*@BlockState*/${input$var}.get(${opt.toInt(input$index)}) instanceof BlockState _bs ? _bs : Blocks.AIR.defaultBlockState()
+/*@BlockState*/(${input$var}.get(${opt.toInt(input$index)}) instanceof BlockState _bs ? _bs : Blocks.AIR.defaultBlockState())
