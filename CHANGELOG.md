@@ -1,6 +1,7 @@
 # Changelog
 
 ## 2.4.6
+* Added support for Fabric 1.20.1
 * [Bugfix] In some cases, some getter blocks could cause build errors
 
 # 2.4.5

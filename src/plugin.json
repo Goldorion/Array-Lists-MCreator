@@ -3,7 +3,7 @@
   "minversion": 202200112711,
   "info": {
     "name": "ArrayList",
-    "version": "2.4.5",
+    "version": "2.4.6",
     "description": "Create and manage your own lists",
     "author": "Goldorion",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Array-Lists-MCreator/master/update.json",
