@@ -1,9 +1,8 @@
 {
   "arraylist": {
-    "latest": "2.4.6",
+    "latest": "2.4.7",
     "changes": [
-      "Added support for Fabric 1.20.1",
-      "[Bugfix] In some cases, some getter blocks could cause build errors"
+      "Added Forge 1.20.1 support"
     ]
   }
 }
