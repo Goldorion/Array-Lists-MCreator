@@ -10,8 +10,8 @@ You can have a small preview of blocks or things you can do on the following pic
 ![](https://i.imgur.com/ZgTzx3N.png).
 
 ## Important Information
-* This plugin supports Forge 1.18.2, 1.19.2 and 1.19.4 and Fabric 1.19.2 and 1.19.4 (when it'll be updated)
-* You need to be on MCreator 2022.1+
+* This plugin supports Forge 1.19.4 and 1.20.1, NeoForge 1.20.4 and Fabric 1.20.1
+* You need to be on MCreator 2024.1
 
 ## Credits/License
 Dev - [Goldorion](https://github.com/Goldorion)

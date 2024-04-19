@@ -1,8 +1,10 @@
 {
   "arraylist": {
-    "latest": "2.4.7",
+    "latest": "2.4.8",
     "changes": [
-      "Added Forge 1.20.1 support"
+      "Updated to support MCreator 2024.1 (only)",
+      "Added support for NeoForge 1.20.4",
+      "Removed support for Forge 1.18.2 and 1.19.2 and Fabric 1.19.2"
     ]
   }
 }

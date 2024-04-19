@@ -1,1 +1,0 @@
-(${input$var}.get(${opt.toInt(input$index)}) instanceof File _f ? _f : new File(""))

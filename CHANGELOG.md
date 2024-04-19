@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.8
+* Updated to support MCreator 2024.1 (only)
+* Added support for NeoForge 1.20.4
+* Removed support for Forge 1.18.2 and 1.19.2 and Fabric 1.19.2
+
 ## 2.4.7
 * Added Forge 1.20.1 support
 
