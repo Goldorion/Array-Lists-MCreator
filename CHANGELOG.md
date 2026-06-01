@@ -4,6 +4,7 @@
 - Updated to MCreator 2026.1
 - Removed support for all previous MCreator versions
 - Removed support for NeoForge 1.21.4
+- Added support for Fabric 1.21.8
 
 ← Two years passed where NerdyPuzzle and then, Semper took and continued the plugin. Semper did an incredible job at expanding the plugin. → 
 
