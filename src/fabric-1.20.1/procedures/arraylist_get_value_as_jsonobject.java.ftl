@@ -1,1 +1,0 @@
-(${input$var}.get(${opt.toInt(input$index)}) instanceof JsonObject _jb ? _jb : new JsonObject())
