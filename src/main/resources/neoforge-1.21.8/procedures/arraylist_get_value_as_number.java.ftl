@@ -1,0 +1,1 @@
+(${input$var}.get(${opt.toInt(input$index)}) instanceof Double _doub${cbi} ? _doub${cbi} : 0.0D)

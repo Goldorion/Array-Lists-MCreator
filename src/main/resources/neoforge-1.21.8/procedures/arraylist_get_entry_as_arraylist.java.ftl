@@ -1,0 +1,1 @@
+(${input$entry} instanceof ArrayList<?> _array${cbi} ? _array${cbi} : new ArrayList<>())

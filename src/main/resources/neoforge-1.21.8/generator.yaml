@@ -1,0 +1,4 @@
+base_templates:
+  - template: nbt_arraylists.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/network/NbtArrayLists.java"
+    condition: hasVariables()

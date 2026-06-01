@@ -1,0 +1,35 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "var",
+      "check": "ArrayList"
+    },
+    {
+      "type": "input_value",
+      "name": "fromIndex",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "toIndex",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "output": "ArrayList",
+  "colour": "#a55ba5",
+  "mcreator": {
+    "group": "l05",
+    "toolbox_id": "arraylist_lists",
+    "toolbox_init": [
+      "<value name=\"fromIndex\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"toIndex\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+    ],
+    "inputs": [
+      "var",
+      "fromIndex",
+      "toIndex"
+    ]
+  }
+}

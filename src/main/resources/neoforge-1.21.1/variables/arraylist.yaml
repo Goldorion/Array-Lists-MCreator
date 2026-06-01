@@ -1,0 +1,26 @@
+defaultvalue: new ArrayList<>()
+scopes:
+  local:
+    init: ArrayList<Object> ${var.getName()} = ${var.getType().getDefaultValue(generator.getWorkspace())};
+    get: ${name}
+    set: ${name} = ${opt.removeParentheses(value)};
+  global_session:
+    init: public static ArrayList<Object> ${var.getName()} = ${var.getValue()};
+    get: ${JavaModName}Variables.${name}
+    set: ${JavaModName}Variables.${name} = ${opt.removeParentheses(value)};
+  global_world:
+    init: public ArrayList<Object> ${var.getName()} = ${var.getValue()};
+    read: ${var.getName()} = NbtArrayLists.loadGlobalWorld(nbt.getList("${var.getName()}", Tag.TAG_COMPOUND), lookupProvider);
+    write: nbt.put("${var.getName()}", NbtArrayLists.saveGlobalWorld(${var.getName()}, lookupProvider));
+    get: ${JavaModName}Variables.WorldVariables.get(world).${name}
+    set: |
+      ${JavaModName}Variables.WorldVariables.get(world).${name}.addAll(${opt.removeParentheses(value)});
+      ${JavaModName}Variables.WorldVariables.get(world).syncData(world);
+  global_map:
+    init: public ArrayList<Object> ${var.getName()} = ${var.getValue()};
+    read: ${var.getName()} = NbtArrayLists.loadGlobalMap(nbt.getList("${var.getName()}", Tag.TAG_COMPOUND), lookupProvider);
+    write: nbt.put("${var.getName()}", NbtArrayLists.saveGlobalMap(${var.getName()}, lookupProvider));
+    get: ${JavaModName}Variables.MapVariables.get(world).${name}
+    set: |
+      ${JavaModName}Variables.MapVariables.get(world).${name} = ${opt.removeParentheses(value)};
+      ${JavaModName}Variables.MapVariables.get(world).syncData(world);

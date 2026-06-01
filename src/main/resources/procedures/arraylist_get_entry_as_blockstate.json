@@ -1,0 +1,19 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entry",
+      "check": "ArrayListEntry"
+    }
+  ],
+  "inputsInline": true,
+  "output": "MCItemBlock",
+  "colour": "#a5a55b",
+  "mcreator": {
+    "group": "i03",
+    "toolbox_id": "arraylist_iterations",
+    "inputs": [
+      "entry"
+    ]
+  }
+}

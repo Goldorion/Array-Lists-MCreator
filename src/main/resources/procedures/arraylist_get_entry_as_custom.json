@@ -1,0 +1,33 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entry",
+      "check": "ArrayListEntry"
+    },
+    {
+      "type": "field_input",
+      "name": "object",
+      "text": "Object"
+    },
+    {
+      "type": "field_input",
+      "name": "default",
+      "text": "null"
+    }
+  ],
+  "inputsInline": true,
+  "output": null,
+  "colour": "#675ba5",
+  "mcreator": {
+    "group": "i15",
+    "toolbox_id": "arraylist_iterations",
+    "inputs": [
+      "entry"
+    ],
+    "fields": [
+      "object",
+      "default"
+    ]
+  }
+}

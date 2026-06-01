@@ -1,0 +1,12 @@
+{
+  "id": "arraylists",
+  "supportedversions": [
+    2026001
+  ],
+  "info": {
+    "name": "ArrayLists",
+    "version": "3.4.2",
+    "description": "Create and manage your own arraylists",
+    "author": "Goldorion, NerdyPuzzle, zSemper"
+  }
+}

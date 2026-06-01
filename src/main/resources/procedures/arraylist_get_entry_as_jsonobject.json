@@ -1,0 +1,19 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entry",
+      "check": "ArrayListEntry"
+    }
+  ],
+  "inputsInline": true,
+  "output": "JsonObject",
+  "colour": "#5b3b77",
+  "mcreator": {
+    "group": "i13",
+    "toolbox_id": "arraylist_iterations",
+    "inputs": [
+      "entry"
+    ]
+  }
+}

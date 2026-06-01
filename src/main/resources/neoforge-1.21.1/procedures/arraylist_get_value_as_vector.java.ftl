@@ -1,0 +1,1 @@
+(${input$var}.get(${opt.toInt(input$index)}) instanceof Vec3 _vector${cbi} ? _vector${cbi} : Vec3.ZERO)

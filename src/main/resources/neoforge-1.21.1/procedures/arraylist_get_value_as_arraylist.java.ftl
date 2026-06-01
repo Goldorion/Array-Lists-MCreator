@@ -1,0 +1,1 @@
+(${input$var}.get(${opt.toInt(input$index)}) instanceof ArrayList<?> _array${cbi} ? _array${cbi} : new ArrayList<>())

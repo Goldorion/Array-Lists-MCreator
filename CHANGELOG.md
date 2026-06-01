@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.5
+- Updated to MCreator 2026.1
+- Removed support for all previous MCreator versions
+- Removed support for NeoForge 1.21.4
+
+← Two years passed where NerdyPuzzle and then, Semper took and continued the plugin. Semper did an incredible job at expanding the plugin. → 
+
 ## 2.4.8
 * Updated to support MCreator 2024.1 (only)
 * Added support for NeoForge 1.20.4
