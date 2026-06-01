@@ -7,6 +7,8 @@
     "name": "ArrayLists",
     "version": "3.5",
     "description": "Create and manage your own arraylists",
-    "author": "Goldorion, NerdyPuzzle, zSemper"
+    "author": "Goldorion, NerdyPuzzle, zSemper",
+    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Array-Lists-MCreator/refs/heads/master/update.json",
+    "pluginPageID": 65659
   }
 }
