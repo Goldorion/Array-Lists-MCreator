@@ -5,11 +5,11 @@ You can create, manage and delete lists into your procedures.
 The plugin also supports variable types from [File Manager](https://mcreator.net/plugin/108844/file-manager-nerdy-edition)
 
 ## Disclaimer
-This project is not official. It is not affiliated with the respective owners and maintainers of MCreator. Do not expect any official support from them.
+This project is not official. It is not affiliated with the respective owners and maintainers of MCreator, NeoForge or Fabric. Do not expect any official support from them.
 
 ## Important Information
-* This plugin supports NeoForge 1.21.1 and 1.21.8 and Fabric 1.21.8
-* You need to be on MCreator 2026.1
+* This plugin supports NeoForge 1.21.1, 1.21.8 and 26.1.2 and Fabric 1.21.8 and 26.1.2
+* You need to be on MCreator 2026.1 or 2026.2
 
 ## Credits/License
 Dev - [Goldorion](https://github.com/Goldorion)

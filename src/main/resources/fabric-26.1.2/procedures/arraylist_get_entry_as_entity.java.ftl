@@ -1,0 +1,1 @@
+(${input$entry} instanceof Entity _entity${cbi} ? _entity${cbi} : null)

@@ -1,0 +1,1 @@
+(${input$var}.get(${opt.toInt(input$index)}) instanceof Boolean _bool${cbi} ? _bool${cbi} : false)

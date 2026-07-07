@@ -1,0 +1,1 @@
+(${input$var}.get(${opt.toInt(input$index)}) instanceof Direction _direction${cbi} ? _direction${cbi} : Direction.UP)

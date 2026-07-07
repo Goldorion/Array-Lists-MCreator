@@ -1,11 +1,12 @@
 {
   "id": "arraylists",
   "supportedversions": [
-    2026001
+    2026001,
+    2026002
   ],
   "info": {
     "name": "ArrayLists",
-    "version": "3.5",
+    "version": "3.5.1",
     "description": "Create and manage your own arraylists",
     "author": "Goldorion, NerdyPuzzle, zSemper",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Array-Lists-MCreator/refs/heads/master/update.json",
